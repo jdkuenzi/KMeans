@@ -4,8 +4,8 @@ This project is an simple implementation of KMeans algorithm using python. At ea
 This project was made during my B.Sc. at the *Haute école du paysage, d’ingénierie et d’architecture de Genève (HEPIA)* at Geneva in Switzerland.
 
 ## Author
-Jean-Daniel Küenzi - jeandanielkuenzi@gmail.com
-Ottavio Buonomo 
+- Jean-Daniel Küenzi - jeandanielkuenzi@gmail.com
+- Ottavio Buonomo 
 
 ## Installation
 1. Create an venv with python `python3 -m venv .venv`
