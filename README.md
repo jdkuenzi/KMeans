@@ -9,7 +9,7 @@ This project was made during my B.Sc. at the *Haute école du paysage, d’ingé
 
 ## Installation
 1. Create an venv with python `python3 -m venv .venv`
-2. Activate the venv `source .venv/bin/activate`
-3. Install requirements `pip install --requirement requirements.tx`
+2. Activate venv `source .venv/bin/activate`
+3. Install requirements `pip install --requirement requirements.txt`
 4. Run the project `python3 KMeans.py NB_POINTS NB_CLUSTERS`
 5. Exit venv `deactivate`
